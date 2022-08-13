@@ -1,6 +1,6 @@
 👋 Hi, my name is Aaron Alexander.
 I am a student at UNT, with majors in Computer Science and Chemistry.
-I'm currently learning C++, and am looking forward to participating in future hackathons.
+I'm currently learning C++, HTML, CSS, and Javascript and am looking forward to participating in future hackathons.
 You can reach me at aaron.3alexander@gmail.com.
 
 
