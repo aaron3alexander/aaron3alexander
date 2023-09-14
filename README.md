@@ -2,6 +2,7 @@
 I am a student at UNT, with majors in Computer Science and Chemistry and minors in Biology and Math.
 I recently interned at Zendesk and worked on fullstack stuff.
 I'm currently learning Next.js, TailwindCSS, and TypeScript.
+
 You can reach me at aaron.3alexander@gmail.com.
 
 
