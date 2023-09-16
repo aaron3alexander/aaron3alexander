@@ -1,6 +1,8 @@
 👋 Hi, my name is Aaron Alexander.
-I am a student at UNT, with majors in Computer Science and Chemistry and minors in Biology and Math.
-I recently interned at Zendesk and worked on fullstack stuff.
+- Senior at UNT, B.S. in Computer Science, B.A. Chemistry, minors in Math and Biology
+- Prev @ [**Zendesk**](https://www.zendesk.com/?ref=437)
+- Public Relations Officer @ [UNT Computer Science Club](https://untcsce.club/)
+
 I'm currently learning Next.js, TailwindCSS, and TypeScript.
 
 You can reach me at aaron.3alexander@gmail.com.
