@@ -5,7 +5,7 @@
 
 I'm currently learning Next.js, TailwindCSS, and TypeScript.
 
-You can reach me at aaron.3alexander@gmail.com. Check out my new website too: aaron-alexander.me
+You can reach me at aaron.3alexander@gmail.com. Check out my new [**website**](https://aaron-alexander.me/) too!
 
 
 <!---
